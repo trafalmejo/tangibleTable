@@ -3,9 +3,8 @@
 TangibleTable uses reacTIVision technology to track markers around a table and create networks based on the location those markers.
 This project implement image wrapping to correct the keystone distorion created when the projector is not placed perperdicularly to a surface.
 This is an example of the setup: https://danielcastano.xyz/portfolio#/tangiblebuses/
-[![TangibleNetwork3.gif](https://s2.gifyu.com/images/TangibleNetwork3.gif)](https://gifyu.com/image/3B8f)
 ![](https://s2.gifyu.com/images/TangibleNetwork3.md.gif)
-![](https://s2.gifyu.com/images/TangibleNetwork3.gif)
+![](https://s2.gifyu.com/images/TangibleNetwork3.md.gif)
 
 
 # App Set up
