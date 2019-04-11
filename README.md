@@ -7,7 +7,7 @@ This is an example of the setup: https://danielcastano.xyz/portfolio#/tangiblebu
 ![](https://s2.gifyu.com/images/InteractiveBusNetwork.md.gif)
 
 
-
+# Schematic
 ![](https://static1.squarespace.com/static/5a660c0b1f318d7ab4e9ef29/t/5caf55f9eb39317a0b078d09/1554994689756/schematic.png
 )
 
